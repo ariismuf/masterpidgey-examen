@@ -102,7 +102,7 @@ Desde alli ya nos creará el README con el titulo incluido.
 |------|------|
 |Maximo Fernández Riera |https://github.com/maximofernandezriera|
 
-## Añadir a "github.com/maximofernandezriera" como colaborador.
+## Añadir a "github.com/maximofernandezriera" como colaborador
 
 > Para ello lo haremos desde github.  
 Primero en el repositorio iremos ha setting y desde alli acudiremos al apartado colaborators.
@@ -114,4 +114,36 @@ Primero en el repositorio iremos ha setting y desde alli acudiremos al apartado 
 ![image](Img/21.png)
 
 > Aqui podemos ver que ya se ha añadido.
+
 ![image](Img/22.png)
+***
+
+## Contribución Guiada a un proyecto
+
+> Para empezar iremos al repositorio github que queremos contribuir y desde alli pulsaremos en "fork" situado arriba a la derecha.
+
+![image](Img/23.png)
+
+> Una vez alli tendremos que poner el nombre que queramos y despues le damos a create fork
+
+![image](Img/24.png)
+
+> Una vez  alli debemos coger el enlace local para hacer un git clone del repositorio
+
+![image](Img/25.png)
+
+> nos iremos al directorio first-contributions y desde alli crearemos una nueva brench
+
+![image](Img/26.png)
+
+>realizaremos algun cambio para asegurar el ejercicio.
+
+![image](Img/27.png)
+
+> Haremos el git push con un comentario.
+
+![image](Img/28.png)
+
+>Y para terminar lo confirmaremos en github.
+
+![image](Img/29.png)
