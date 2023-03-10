@@ -89,3 +89,29 @@ Desde alli ya nos creará el README con el titulo incluido.
 ![image](Img/17.png)
 
 > A continuacion añadiremos y subiremos los cambios al repositorio.
+
+![image](Img/18.png)
+***
+
+## Otro vistazo a los commits realizados
+![image](Img/19.png)
+
+## Crear una tabla
+
+|NOMBRE|GITHUB|
+|------|------|
+|Maximo Fernández Riera |https://github.com/maximofernandezriera|
+
+## Añadir a "github.com/maximofernandezriera" como colaborador.
+
+> Para ello lo haremos desde github.  
+Primero en el repositorio iremos ha setting y desde alli acudiremos al apartado colaborators.
+
+![image](Img/20.png)
+
+> Desde alli seleccionaremos add people y buscaremos el nombre del usuario que queremos añadir y le daremos al cuadro verde de la ventana emergente.
+
+![image](Img/21.png)
+
+> Aqui podemos ver que ya se ha añadido.
+![image](Img/22.png)
