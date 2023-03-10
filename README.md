@@ -4,7 +4,7 @@
 
 >Para crear el repositorio iremos al apartado "repository" en github y alli le daremos a "New".
 
-![image](img/1.png)  
+![image](Img/1.png)  
 
 
 > una vez hecho esto tendremos una nueva ventana donde podremos poner el nombre del repositorio y crearlo.
