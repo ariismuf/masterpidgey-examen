@@ -54,7 +54,38 @@ Desde alli ya nos creará el README con el titulo incluido.
 
 ![image](Img/10.png)
 
-> Desoues crearemos el archivo .gitignore y en el añadiremos lo que queremos ocultar.
+> Despues crearemos el archivo .gitignore y en el añadiremos lo que queremos ocultar.
 
 ![image](Img/11.png)
 ![image](Img/12.png)
+
+> haremos un push para gaurdar los cambios en github.
+***
+
+## Añadir fichero
+
+> Para este apartado crearemos el archivo 1.txt.
+
+![image](Img/13.png)
+
+> Despues añadiremos y subiremos los cambios.
+
+![image](Img/14.png)
+***
+## Ver los commits realizados hasta ahora
+
+> para ello pondremos el comando git log y nos tendria que salir una respuesta similar a esta.
+
+![image](Img/15.png)
+***
+
+## Creación de un tag
+> Para crear un tag tendremos que poner el siguiente comando.
+
+![image](Img/16.png)
+
+> Esto que se nos ha abierto es el editor de texto vim que es un poco complicado de entender, tenemos que poner un comentario y guardarlo para crear el tag.
+
+![image](Img/17.png)
+
+> A continuacion añadiremos y subiremos los cambios al repositorio.
