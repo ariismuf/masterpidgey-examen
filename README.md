@@ -144,6 +144,9 @@ Primero en el repositorio iremos ha setting y desde alli acudiremos al apartado 
 
 ![image](Img/28.png)
 
->Y para terminar lo confirmaremos en github.
+> Para terminar la segunda parte del examen simplemente tendremos que ir a github y confirmar los cambios realizados.
 
 ![image](Img/29.png)
+***
+
+> En ultimo lugar realizaremo un ultimo git push para guardar bien los datos del readme del examen y que no falte nada
